@@ -1,0 +1,5 @@
+{
+  "name": "SecureGate IoT Admin",
+  "description": "A comprehensive dashboard for managing a secure IoT gateway, featuring real-time telemetry, device management, and AI-powered security log analysis using Gemini.",
+  "requestFramePermissions": []
+}
